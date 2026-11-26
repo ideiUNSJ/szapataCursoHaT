@@ -1,2 +1,2 @@
 # szapataCursoHaT
-Repositorio Curso de Poagrado de la Hipotesis a la Tesis
+Repositorio Curso de Posgrado de la Hipotesis a la Tesis 2026   Sergio Zapata 
