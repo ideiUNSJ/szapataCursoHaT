@@ -13,3 +13,4 @@ el titulo se define al final de la escritura del paper, se arranca con una propu
 publish or perish generar el file .bib  luego ese .bib lo trabajo con bibliosahny en Posit
 tb se puede traer data de OpenAlex, es importante crear cuenta con email instituiconal
 se puede copiar la API desde OA y luego pegar en Bibliometrix para conectar ambas app
+opencode 
