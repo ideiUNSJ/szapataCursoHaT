@@ -10,4 +10,6 @@ usar el autoarchivsdo... ver doc en el repo del profe que se llama ejemplo_auto_
 28/11/2026
 Desde Posit cargo Bibliometrix y ejecuto biblioshany
 el titulo se define al final de la escritura del paper, se arranca con una propuesta de titulo
-pu 6 perish generar el file ,bib... ese .bib lo trabajo con bibliosahny
+publish or perish generar el file .bib  luego ese .bib lo trabajo con bibliosahny en Posit
+tb se puede traer data de OpenAlex, es importante crear cuenta con email instituiconal
+se puede copiar la API desde OA y luego pegar en Bibliometrix para conectar ambas app
